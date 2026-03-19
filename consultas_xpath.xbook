@@ -1,1 +1,0 @@
-[{"kind":1,"language":"markdown","value":"## Reto 1: Filtrado por contenido y estado."},{"kind":2,"language":"xpath","value":"/bibiliotecaTecnica/recurso/titulo[categoria=CCS and disponible=true] /string()"}]
